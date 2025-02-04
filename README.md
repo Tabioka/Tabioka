@@ -1,6 +1,6 @@
 # Hi there, I'm Tabioka 👋
 
-Welcome to my GitHub profile! I'm a passionate [Discord Bot Dev & Web Developer] with a deep interest in Software Development & Learning new things.. I love building innovative projects and contributing to open-source communities.
+Welcome to my GitHub profile! I'm a passionate **Discord Bot Dev & Web Developer** with a deep interest in Software Development & Learning new things.. I love building innovative projects and contributing to open-source communities.
 
 ## 🚀 About Me
 - 🔭 I’m currently working on **[sim a multi-purpose discord bot.]**
